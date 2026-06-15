@@ -1,5 +1,5 @@
 Markdown
-# Olá, eu sou a Karolinie Arruda Galvão! 
+# Olá, me chamo Karolinie Arruda Galvão! 
 
 Seja muito bem-vindo(a) ao meu portfólio no GitHub! 
 
